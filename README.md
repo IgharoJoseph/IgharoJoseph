@@ -12,9 +12,9 @@ Learner of the <b>ALX Backend Web Development Program</b> and the <b>ALX Data Sc
 Passionate about creating reliable backend systems and geospatial applications that make complex data useful for real-world decision-making.  
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igharojoseph&label=Profile%20views&color=0e75b6&style=flat" alt="igharojoseph" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgharoJoseph&label=Profile%20views&color=0e75b6&style=flat" alt="IgharoJoseph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igharojoseph&column=-1" alt="igharojoseph" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IgharoJoseph&column=-1" alt="IgharoJoseph" /></a> </p>
 
 
 
