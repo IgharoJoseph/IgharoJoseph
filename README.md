@@ -12,6 +12,11 @@ Learner of the <b>ALX Backend Web Development Program</b> and the <b>ALX Data Sc
 Passionate about creating reliable backend systems and geospatial applications that make complex data useful for real-world decision-making.  
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igharojoseph&label=Profile%20views&color=0e75b6&style=flat" alt="igharojoseph" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igharojoseph" alt="igharojoseph" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/flambosassy" target="blank"><img src="https://img.shields.io/twitter/follow/flambosassy?logo=twitter&style=for-the-badge" alt="flambosassy" /></a> </p>
 ---
 
 ## 🌟 About Me
@@ -29,27 +34,13 @@ Passionate about creating reliable backend systems and geospatial applications t
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-**Frameworks & Libraries**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igharojoseph&show_icons=true&locale=en&layout=compact" alt="igharojoseph" /></p>
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-0099CC?style=for-the-badge&logo=geopandas&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igharojoseph&show_icons=true&locale=en" alt="igharojoseph" /></p>
 
-**GIS Tools & Platforms**
-
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igharojoseph&" alt="igharojoseph" /></p>
 
 
 </p>
@@ -85,11 +76,13 @@ Passionate about creating reliable backend systems and geospatial applications t
 ---
 
 ## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/joseph-igharo-835316170/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:josephigharo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<p align="left">
+<a href="https://twitter.com/flambosassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flambosassy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joseph-igharo-835316170s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-igharo-835316170s" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22263116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22263116" height="30" width="40" /></a>
+<a href="https://kaggle.com/igharojoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="igharojoseph" height="30" width="40" /></a>
+<a href="https://instagram.com/joeosas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joeosas_" height="30" width="40" /></a>
+<a href="https://medium.com/@josephigharo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@josephigharo" height="30" width="40" /></a>
+<a href="https://discord.gg/josephosas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="josephosas" height="30" width="40" /></a>
 </p>
