@@ -63,7 +63,7 @@ Passionate about creating reliable backend systems and geospatial applications t
 ## 📌 Featured Projects
 
 - 🌍 **[VegeView](https://github.com/IgharoJoseph/VegeView_Project)**  
-  *A web portal for geospatial analysis focusing on NDVI, LULC, and environmental change detection. @ https://vegeview.onrender.com*  
+  *A web portal for geospatial analysis focusing on NDVI, LULC, and environmental change detection.*  
   Tech stack: Python, Django, Geopandas, JavaScript  
 
 - 📊 **[Climate Variability Analysis](https://github.com/IgharoJoseph/Climate-Variability)**  
