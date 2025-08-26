@@ -14,8 +14,7 @@ Passionate about creating reliable backend systems and geospatial applications t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgharoJoseph&label=Profile%20views&color=0e75b6&style=flat" alt="IgharoJoseph" /> </p>
 
-![](https://github-trophies.vercel.app/?username=IgharoJoseph&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-trophy.vercel.app/?username=IgharoJoseph&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <p align="left"> <a href="https://twitter.com/flambosassy" target="blank"><img src="https://img.shields.io/twitter/follow/flambosassy?logo=twitter&style=for-the-badge" alt="flambosassy" /></a> </p>
@@ -40,12 +39,6 @@ Passionate about creating reliable backend systems and geospatial applications t
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgharoJoseph&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="160px"/>
-  
-  <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IgharoJoseph&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgharoJoseph&theme=radical&hide_border=false" height="160px"/>
 
 
 </div>
@@ -56,9 +49,20 @@ Passionate about creating reliable backend systems and geospatial applications t
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IgharoJoseph&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
+  <br>
+
+</p>
+
+---
+
 ## 📌 Featured Projects
 
-- 🌍 **[VegeView](https://github.com/IgharoJoseph/VegeView)**  
+- 🌍 **[VegeView](https://github.com/IgharoJoseph/VegeView_Project)**  
   *A web portal for geospatial analysis focusing on NDVI, LULC, and environmental change detection.*  
   Tech stack: Python, Django, Geopandas, JavaScript  
 
@@ -75,12 +79,7 @@ Passionate about creating reliable backend systems and geospatial applications t
 - 🤖 **Machine Learning & Deep Learning** – model building for real-world applications  
 - 📊 **Data Pipelines & ETL** – automating workflows for analytics and decision support  
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgharoJoseph&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgharoJoseph&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
 
 ---
 
