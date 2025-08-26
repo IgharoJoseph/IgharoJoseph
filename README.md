@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Joseph Igharo Cover.png" alt="Joseph Igharo Banner" />
+  <img src="https://github.com/IgharoJoseph/IgharoJoseph/blob/main/JosephIgharoCoverPhoto.jpg?raw=true" alt="Joseph Igharo Banner" />
 </p>
 
 <!-- Profile Header -->
